@@ -1,7 +1,7 @@
 {
-  "workbench.preferredLightColorTheme": "🔆 Colorized Light 06 - Chartreuse",
-  "workbench.preferredDarkColorTheme": "🌙 Colorized Dark 06 - Chartreuse",
-  "workbench.colorTheme": "🌙 Colorized Dark 06 - Chartreuse",
+  "workbench.preferredLightColorTheme": "🔆 Colorized Light 16 - Azure",
+  "workbench.preferredDarkColorTheme": "🌙 Colorized Dark 16 - Azure",
+  "workbench.colorTheme": "🌙 Colorized Dark 16 - Azure",
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#003200",
     "titleBar.activeForeground": "#ffffff",
@@ -9,5 +9,6 @@
     "titleBar.inactiveForeground": "#ffffff",
     "statusBar.background": "#003200",
     "statusBar.foreground": "#ffffff"
-  }
+  },
+  "colorizedManager.variantId": "azure"
 }
