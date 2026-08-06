@@ -212,7 +212,7 @@ automated-dropshipping-store/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/automated-dropshipping-store.git
+https://github.com/anthonimasaga89-code/Automated-drop-shipping-store.git
 ```
 
 Move into the project directory
