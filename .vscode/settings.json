@@ -1,7 +1,4 @@
 {
-  "workbench.preferredLightColorTheme": "🔆 Colorized Light 16 - Azure",
-  "workbench.preferredDarkColorTheme": "🌙 Colorized Dark 16 - Azure",
-  "workbench.colorTheme": "🌙 Colorized Dark 16 - Azure",
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#003200",
     "titleBar.activeForeground": "#ffffff",
@@ -10,5 +7,8 @@
     "statusBar.background": "#003200",
     "statusBar.foreground": "#ffffff"
   },
-  "colorizedManager.variantId": "azure"
+  "colorizedManager.variantId": "crimson",
+  "workbench.preferredLightColorTheme": "🔆 Colorized Light 01 - Crimson",
+  "workbench.preferredDarkColorTheme": "🌙 Colorized Dark 01 - Crimson",
+  "workbench.colorTheme": "🌙 Colorized Dark 01 - Crimson"
 }

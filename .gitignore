@@ -1,0 +1,55 @@
+# ---- Environment & Secrets ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---- Python / FastAPI (backend) ----
+backend/__pycache__/
+backend/**/__pycache__/
+*.py[cod]
+*$py.class
+backend/.venv/
+backend/venv/
+backend/env/
+backend/*.egg-info/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/htmlcov/
+backend/.coverage
+backend/dist/
+backend/build/
+
+# Alembic
+backend/alembic/versions/__pycache__/
+
+# SQLite local dev db
+*.sqlite3
+*.db
+
+# ---- React / Node (frontend) ----
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/coverage/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.eslintcache
+
+# ---- Docker ----
+docker/*.log
+docker-compose.override.yml
+
+# ---- IDE / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+logs/
