@@ -5,6 +5,7 @@
 **Business Model:** Retail dropshipping — products are sourced from suppliers (Alibaba/AliExpress) and shipped directly to customers upon purchase. Starts as a web app, with a mobile app planned for a later phase.
 
 **Tech Stack:**
+
 - Frontend: React
 - Backend: FastAPI (Python)
 - ORM / Database: SQLAlchemy with PostgreSQL (or SQLite for local dev)
@@ -22,7 +23,8 @@
 
 ## 3. Project Structure
 
-##automated-ecommerce-dropshipping-store/
+```tree
+automated-ecommerce-dropshipping-store/
 ├── frontend/
 │   ├── public/
 │   └── src/
@@ -116,9 +118,7 @@
 └── .env.example
 ```
 
-
 ## 4. Environment Configuration
-
 Copy `.env.example` to `.env` in both `frontend/` and `backend/` and fill in:
 
 - Database connection string (PostgreSQL or SQLite)
