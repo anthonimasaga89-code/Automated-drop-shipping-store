@@ -118,7 +118,6 @@ automated-ecommerce-dropshipping-store/
 └── .env.example
 ```
 
-## 4. Environment Configuration
 Copy `.env.example` to `.env` in both `frontend/` and `backend/` and fill in:
 
 - Database connection string (PostgreSQL or SQLite)
